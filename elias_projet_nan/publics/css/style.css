@@ -1,0 +1,90 @@
+.jumbotron_section{
+  margin: 10px auto;
+  background-image: url('../img/FB_IMG_1554859571804.jpg');
+  background-repeat:  no-repeat;
+  background-position:  center;
+  background-size: 100%;
+}
+
+.jumbotron{
+  background-color:  rgba(180, 231, 228, 0.301);
+  color: beige
+}
+.jumbotron2{
+  background-color:  rgba(182, 233, 195, 0.61);
+  padding: 4px;
+  
+}
+.content{
+  width: 96%;
+  margin:  auto;
+
+}
+
+.detail{
+  background-image: url('../img/FB_IMG_1554859349617.jpg');
+  background-repeat:  no-repeat;
+  background-position:  center;
+  background-size: 100%;
+  margin: 10px auto;
+}
+.blockquote{
+  margin-top: 15px;
+}
+
+.comment{
+  background-color: rgb(220, 241, 241);
+  width: 100%;
+}
+
+.texterror{
+  color: red;
+}
+
+.categorie{
+	text-align: center;
+	background-color: rgba(237, 237, 238, 0.72);
+	border-radius: 5px;
+	margin: 10px auto;
+
+}
+
+.cat1, .cat2, .cat3{
+		text-align: center;
+		position: relative;
+		padding: 3px 5px;
+		box-shadow: 1px 1px 2px 1px violet;
+		border-radius: 1px;
+		margin-bottom: 15px;
+
+}
+
+.cat1 p, .cat2 p, .cat3 p{
+	background-color: #fff;
+	width: 98%;
+	margin: 2px auto;
+	border-radius: 2px;
+	font-size: 20px;
+	color: rgba(4, 5, 5, 0.9);
+}
+
+.cat_img:hover{
+	border: 4px solid red;
+	transition: 0.8s;
+
+	transform: scale(1.1);
+}
+.categorie_titre{
+	font-weight: bold;
+	/*border-top: 5px dashed violet;*/
+	border-bottom: 5px solid #ef5f5f;;
+	display: block;
+	width: 100%;
+	text-align: center;
+	font-size: 35px;
+	margin: 22px auto;
+	border-radius: 5px;
+	color: #ef5f5f;
+
+}
+
